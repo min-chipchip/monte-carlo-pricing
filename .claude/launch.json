@@ -6,6 +6,12 @@
       "runtimeExecutable": ".venv/bin/streamlit",
       "runtimeArgs": ["run", "app.py", "--server.headless", "true", "--server.port", "8501"],
       "port": 8501
+    },
+    {
+      "name": "market-app",
+      "runtimeExecutable": ".venv/bin/streamlit",
+      "runtimeArgs": ["run", "market_app.py", "--server.headless", "true", "--server.port", "8503"],
+      "port": 8503
     }
   ]
 }

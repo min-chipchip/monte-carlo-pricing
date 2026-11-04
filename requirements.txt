@@ -106,3 +106,5 @@ webencodings==0.6.1
 websocket-client==1.9.2
 websockets==17.4
 yfinance==1.8.0
+plotly==7.1.0
+streamlit==1.66.1

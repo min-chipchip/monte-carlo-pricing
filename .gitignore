@@ -5,3 +5,6 @@ __pycache__/
 data/raw/*
 !data/raw/.gitkeep
 docs
+presentation/rendered/
+presentation/build/*
+!presentation/build/monte_carlo_pricing_slides.pdf
